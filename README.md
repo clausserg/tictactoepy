@@ -1,8 +1,9 @@
 tictactoepy
 ==============================
 [//]: # (Badges)
-[![GitHub Actions Build Status](https://github.com/REPLACE_WITH_OWNER_ACCOUNT/tictactoepy/workflows/CI/badge.svg)](https://github.com/REPLACE_WITH_OWNER_ACCOUNT/tictactoepy/actions?query=workflow%3ACI)
-[![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/tictactoepy/branch/master/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/tictactoepy/branch/master)
+[![GitHub Actions Build Status](https://github.com/clausserg/tictactoepy/workflows/CI/badge.svg)](https://github.com/clausserg/tictactoepy/actions?query=workflow%3ACI)
+[![codecov](https://codecov.io/gh/clausserg/tictactoepy/branch/main/graph/badge.svg)](https://codecov.io/gh/clausserg/tictactoepy/branch/main)
+[![Build Status](https://travis-ci.org/clausserg/tictactoepy.svg?branch=main)](https://travis-ci.org/github/clausserg/tictactoepy)
 
 
 A tictactoe program written for fun while following the '2021 Complete Python Bootcamp From Zero to Hero in Python' by Jose Portilla, on Udemy
