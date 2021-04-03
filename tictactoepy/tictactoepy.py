@@ -6,7 +6,7 @@ A tictactoe program written, for fun, while following the
 
 from board_class import Board
 from player_class import Player
-from useful_functions import get_players, pick_position
+from functions import get_players, pick_position
 from random import shuffle
 
 

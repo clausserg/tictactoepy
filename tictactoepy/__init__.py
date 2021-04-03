@@ -4,7 +4,7 @@ A tictactoe program written for fun while following the '2021 Complete Python Bo
 """
 
 # Add imports here
-from .tictactoepy import *
+# from .tictactoepy import *
 
 # Handle versioneer
 from ._version import get_versions
