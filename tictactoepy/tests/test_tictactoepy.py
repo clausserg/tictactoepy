@@ -1,12 +1,8 @@
-"""
-Unit and regression test for the tictactoepy package.
-"""
+#!/usr/bin/env python
 
-# Import package, test suite, and other packages as needed
-import tictactoepy
+"""Tests for `tictactoe` package."""
+
 import pytest
-import sys
+from tictactoepy import tictactoepy
 
-def test_tictactoepy_imported():
-    """Sample test, will always pass so long as import statement worked"""
-    assert "tictactoepy" in sys.modules
+
